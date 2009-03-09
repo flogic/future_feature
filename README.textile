@@ -1,2 +1,4 @@
 Just add the "future_feature" class to any div, form, or any other part of 
 your web app to have it flagged as a new feature.
+
+!http://img.skitch.com/20090309-x588mkbmhcap1u8jcdwrk281kt.jpg!
